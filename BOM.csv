@@ -1,5 +1,5 @@
 Component,Description,Qty,Source,Unit Price (INR),Total (INR),Unit Price (USD),Total (USD)
-PCB,Custom PCB – Black, 1.6mm, HASL,5,JLCPCB,301.6,1508.00,3.62,18.10
+PCB,Custom PCB – Black, 1.6mm,5,JLCPCB,301.6,1508.00,3.62,18.10
 Shipping,JLCPCB Standard Shipping (0.77 kg),1,JLCPCB,2295.9,2295.90,27.54,27.54
 Keycaps,Doubleshot PBT Ortholinear Set,1 set,Neomacro.in,1890,1890.00,22.60,22.60
 Pro Micro,SparkFun Pro Micro USB-C,1,Amazon.in,1450,1450.00,17.50,17.50
