@@ -3,6 +3,16 @@
 This is a raw log of the grind, chaos, wins, and minor meltdowns that happened while building the Sukhoi Board. Five days of PCB pain, schematic stares, and CAD caffeine loops. If you're reading this and thinking of building your own board, may this journal help you feel less alone in the madness.
 
 ---
+title: "ortholinear Keyboard"
+author: "sharanya"
+description: "A comfortable keyboard for me"
+created_at: "2025-07-10"
+Total time spent: 18.5 hours
+---
+
+
+
+---
 
 ## Day 1 – July 6  
 **Time Spent:** 4 hours
