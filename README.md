@@ -35,7 +35,7 @@ You can drop this board into any workflow: coding, writing, gaming, or just pret
 
 | Image | Description |
 |-------|-------------|
-| ![schematic](https://github.com/user-attachments/assets/example-schematic.png) | Full schematic showing row-column matrix, MCU, encoder, and reset switch |
+| ![image](https://github.com/user-attachments/assets/22f22833-a96a-4afb-bccc-2a8a74ac3f25) | Full schematic showing row-column matrix, MCU, encoder, and reset switch |
 
 ---
 
@@ -43,7 +43,7 @@ You can drop this board into any workflow: coding, writing, gaming, or just pret
 
 | Image | Description |
 |-------|-------------|
-| ![pcb](https://github.com/user-attachments/assets/example-pcb.png) | PCB layout with routed traces, encoder mount, and hotswap sockets |
+| ![image](https://github.com/user-attachments/assets/88219f5c-ab85-48a2-a5b8-4b688bd7714c) | PCB layout with routed traces, encoder mount, and hotswap sockets |
 
 ---
 
@@ -52,19 +52,6 @@ You can drop this board into any workflow: coding, writing, gaming, or just pret
 | Image | Description |
 |-------|-------------|
 | ![3drender](https://github.com/user-attachments/assets/example-3d.png) | Fusion 360 render of assembled Sukhoi Board with top-down view |
-
----
-
-## File Structure
-
-This repo includes everything you need to replicate the build:
-
-- `sukhoi.kicad_sch` – Main schematic file  
-- `sukhoi.kicad_pcb` – Board layout  
-- `case/` – STL and STEP files for top and bottom case  
-- `firmware/` – QMK folder for Sukhoi Board  
-- `docs/` – Images and reference sheets  
-- `journal.md` – Build log with dates and hours  
 
 ---
 
