@@ -75,6 +75,7 @@ Prepared evrything for submission, updated everything added cad images step file
 
 
 
+![image](https://github.com/user-attachments/assets/a508cd57-77ab-40f4-b3e9-1db287c4e917)
 
 
 
