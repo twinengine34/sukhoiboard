@@ -55,8 +55,24 @@ Sukhoi Board packs a lot into its compact ortholinear layout. It’s fully progr
 ---
 
 ## BOM
+| Component       | Description                        | Qty   | Source              | Unit Price (INR) | Total (INR) | Unit Price (USD) | Total (USD) |
+| --------------- | ---------------------------------- | ----- | ------------------- | ---------------- | ----------- | ---------------- | ----------- |
+| **PCB**         | Custom PCB – Black, 1.6mm, HASL    | 5     | JLCPCB              | ₹301.60          | ₹1508.00    | \$3.62           | \$18.10     |
+| **Shipping**    | JLCPCB Standard Shipping (0.77 kg) | 1     | JLCPCB              | ₹2295.90         | ₹2295.90    | \$27.54          | \$27.54     |
+| **Keycaps**     | Doubleshot PBT Ortholinear Set     | 1 set | Neomacro.in         | ₹1890.00         | ₹1890.00    | \$22.60          | \$22.60     |
+| **Pro Micro**   | SparkFun Pro Micro USB-C           | 1     | Amazon.in           | ₹1450.00         | ₹1450.00    | \$17.50          | \$17.50     |
+| **Switches**    | Kailh Box Navy (Clicky)            | 40    | CosmicByte.in       | ₹35.00           | ₹1400.00    | \$0.42           | \$16.80     |
+| **Diodes**      | 1N4148                             | 40    | Shaarvi Electronics | ₹2.50            | ₹100.00     | \$0.03           | \$1.20      |
+| **Encoders**    | EC11 Metal Shaft                   | 2     | Shaarvi / Robu.in   | ₹45.00           | ₹90.00      | \$0.54           | \$1.08      |
+| **Knobs**       | CNC Aluminum Encoder Knob          | 2     | Amazon / Robu.in    | ₹95.00           | ₹190.00     | \$1.15           | \$2.30      |
+| **LEDs**        | RGB Diffused LEDs                  | 5     | Shaarvi Electronics | ₹5.00            | ₹25.00      | \$0.06           | \$0.30      |
+| **USB-C Cable** | Braided Nylon USB-C to A (1.5m)    | 1     | Amazon.in           | ₹325.00          | ₹325.00     | \$3.90           | \$3.90      |
 
 
+| Currency | Amount         |
+| -------- | -------------- |
+| INR      | ₹9323.90       |
+| USD      | **\$111.92**  |
 
 
 
