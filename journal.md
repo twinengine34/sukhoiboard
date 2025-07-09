@@ -20,7 +20,7 @@ Kicked things off with the schematic. Started from a blank KiCad canvas because 
 ---
 
 ## Day 2 – July 7  
-**Time Spent:** 3 hours
+**Time Spent:** 4-5 hours
 
 Moved into PCB layout and instantly got hit with pin placement regret. Had to reroute the entire column setup because I flipped the rows and didn’t realize until traces started looking like spaghetti. Switched to grid view, slapped the MCU dead center, and tried to keep traces symmetrical. Also made room for the encoder up top and slightly offset the OLED header. Routed power lines with thicker traces because I’ve learned from past drama. Used zones for GND and VCC because I like pretending I know what I’m doing. No silkscreen yet, just vibes and vias.
 
@@ -31,7 +31,7 @@ Moved into PCB layout and instantly got hit with pin placement regret. Had to re
 ---
 
 ## Day 3 – July 8  
-**Time Spent:** 4 hours
+**Time Spent:** 6 hours
 
 This was the CAD day. Got into Fusion 360 and built the bottom case first. Made the walls extra chunky for that clean minimalist feel but added subtle lines to hint at fighter jet fuselage panels. The top plate got a centered Sukhoi logo that’s shallow engraved, which took way too long to align. Played around with the USB port cutout until it stopped clipping through the case. The encoder needed a custom cavity and that honestly took a while to model properly.
 
@@ -58,9 +58,9 @@ Revisited the PCB to clean things up. Added silkscreen labels for everything bec
 ---
 
 ## Day 5 – July 10  
-**Time Spent:** 3 hours
+**Time Spent:** 1 hour
 
-
+Prepared evrything for submission, updated everything added cad images step files etc
 
 
 
@@ -73,7 +73,7 @@ Revisited the PCB to clean things up. Added silkscreen labels for everything bec
 
 ---
 
-## Total Hours: 15 hours
+## Total Hours: 18.5 hours
 
 The Sukhoi Board is shaping up and it’s already way more personal than I thought. Seeing the keyboard come together from an idea to an actual usable board in five days is surreal. Still some way to go with firmware polish and physical assembly, but yeah we’re airborne.
 
