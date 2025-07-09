@@ -16,16 +16,7 @@ You can drop this board into any workflow: coding, writing, gaming, or just pret
 
 ## Features
 
-- 40-key ortholinear grid layout  
-- Engraved Sukhoi logo on top plate  
-- USB-C connectivity with ESD protection  
-- QMK/VIA compatible  
-- Rotary encoder support  
-- Optional OLED display  
-- Custom-designed PCB with clear silkscreen labeling  
-- MX-style switch compatibility  
-- Designed with hotswap and soldered variants  
-- Screw-together case with 3D printable and CNC options  
+Sukhoi Board packs a lot into its compact 40-key ortholinear layout. It’s fully programmable with QMK and supports VIA out of the box, making remapping and macro setup super simple. The board connects over USB-C and includes ESD protection for extra safety. If you're into knobs, there's support for a rotary encoder, and even an optional OLED screen for real-time stats, layers, or animations. The PCB is custom-designed with clean trace routing, easy-to-follow silkscreen labels, and a flexible footprint that lets you go hotswap or soldered depending on your build style. The switch support is MX-compatible, and the case itself is designed for either 3D printing or CNC machining, with mounting holes for standoffs and clean top-plate alignment. Everything was made to fit together seamlessly while keeping the build approachable.
 
 ---
 
