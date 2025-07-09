@@ -53,6 +53,24 @@ Sukhoi Board packs a lot into its compact ortholinear layout. It’s fully progr
 
 
 ---
+
+## BOM
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/f92443f8-a5fa-4b4b-ab3b-69de0f7c446f)
+
+
+
+
+
 ## License
 
 Sukhoi Board is open-source hardware. All design files, including PCB, case, and firmware, are shared under the MIT License. Commercial resale is not permitted without credit.
